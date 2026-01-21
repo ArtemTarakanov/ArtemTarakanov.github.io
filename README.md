@@ -6,22 +6,18 @@
 * 🔥 Fullstack разработка (Django, HTML, CSS, JavaScript)
 * 💡 Создание адаптивных и интерактивных веб-интерфейсов
 * 🛠 Осваиваю React и TypeScript для фронтенда
-* ⚡️ Пишу чистый, поддерживаемый код
 
 # 💻 Технологический стек
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 🔧 Навыки
 * Frontend: HTML, CSS, JavaScript  
 * Backend: Django  
 * Фреймворки: React (начальный уровень)  
-* Работа с API: REST API  
-* Инструменты: Git, GitHub
+* Инструменты: VS Code, WebStorm, DBeaver, PostgreSQL
 
 ---
 
@@ -39,7 +35,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+  <img alt="github-snake" src="./github-snake.svg" />
 </picture>
