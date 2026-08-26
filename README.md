@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/image.jpeg" width="700" alt="Artem Tarakanov" />
+  <img src="/images/image.jpeg"  alt="Artem Tarakanov" />
 </p>
 
 <p align="center">
